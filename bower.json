@@ -1,0 +1,26 @@
+{
+  "name": "ngSelectionChange",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mikaelharsjo/ngSelectionChange",
+  "authors": [
+    "Mikael Härsjö <mikael.harsjo@cryptzone.com>"
+  ],
+  "description": "Angular directive that evaluates when an inputs selected text is changed",
+  "main": "index.js",
+  "keywords": [
+    "angular",
+    "directive",
+    "selection"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.26"
+  }
+}
