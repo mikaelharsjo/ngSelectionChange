@@ -24,6 +24,10 @@
   "homepage": "https://github.com/mikaelharsjo/ngSelectionChange",
   "devDependencies": {
     "bower": "^1.3.12",
-    "gulp": "^3.8.8"
+    "gulp": "^3.8.8",
+    "karma": "^0.12.24",
+    "karma-chrome-launcher": "^0.1.5",
+    "karma-jasmine": "^0.1.5",
+    "karma-phantomjs-launcher": "^0.1.4"
   }
 }
